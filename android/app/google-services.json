@@ -1,51 +1,26 @@
 {
   "project_info": {
-    "project_number": "948210243667",
-    "project_id": "fitness-app-18ba0",
-    "storage_bucket": "fitness-app-18ba0.firebasestorage.app"
+    "project_number": "681232325996",
+    "project_id": "fitness-app-37a64",
+    "storage_bucket": "fitness-app-37a64.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:948210243667:android:41d00feb9c4651c7ac0ea6",
+        "mobilesdk_app_id": "1:681232325996:android:331f2de1a74ded0462a749",
         "android_client_info": {
           "package_name": "com.example.fitness_app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "948210243667-t2f71lmvn5vm8pd64pvl2veq36soto14.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.fitness_app",
-            "certificate_hash": "1f1025e89c5751e585e0f34eed51e7102ab2cdff"
-          }
-        },
-        {
-          "client_id": "948210243667-839nb2ompa86tb0pdg6easn32ss7lv9j.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD4XXH2TAB9EHVakO-vnDbIS0xbiTi4tl4"
+          "current_key": "AIzaSyCutKByJu-S2Kp9TAc76PD4cGF5bz2uuRc"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "948210243667-839nb2ompa86tb0pdg6easn32ss7lv9j.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "948210243667-lc45p9n5pp994oc4j0urb37uapje1sv0.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.fitnessApp"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
